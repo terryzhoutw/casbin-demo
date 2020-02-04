@@ -1,0 +1,2 @@
+p, uid-1, /user/getuserbyid, GET
+p, uid-1, /unit/getunitbyid, POST
